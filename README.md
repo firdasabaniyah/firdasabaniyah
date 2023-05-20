@@ -1,13 +1,8 @@
 # Halo semua! 
 Perkenalkan nama saya **Firda Sabaniyah**.\
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
- 
-<p align="left">
-<a href="https://github.com/gilangadhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+Saya seorang yang memiliki minat besar dalam belajar hal baru, saya pernah mengikuti program Merdeka Belajar bersama [Dicoding](https://www.dicoding.com/), dalam program pengembangan Machine Learning dan Front End Web.\
+Sejak Saya mengikuti program SIB di Dicoding, saya menjadi sangat suka dalam hal analisis data menggunakan bahasa python. Saya juga sedikit demi sedikit berusaha untuk belajar membuat website sederhana dengan mengimplementasikan ilmu yang telah saya dapatkan di Dicoding melalui Program SIB.\
+Selain itu, saya juga suka dalam hal manajemen proyek dan manajemen resiko, hal tersebut bermula ketika saya mempelajari keduanya di kelas mata kuliah.\
+Jika Anda tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/firda-sa-baniyah/) tersebut yaaa...\
+\
+Terimakasih Banyak.
